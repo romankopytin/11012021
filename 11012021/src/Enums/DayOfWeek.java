@@ -8,7 +8,7 @@ public enum DayOfWeek {
     FRIDAY("Пятница", 5, 8),
     SATURDAY("Суббота", 6, 0),
     SUNDAY("Воскресенье", 7, 0);
-
+// 
     private String name;
     private int number;
     private int hours;
